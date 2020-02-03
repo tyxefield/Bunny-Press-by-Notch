@@ -1,4 +1,4 @@
-# Bunny-Press-by-Notch
+# BunnyPress by Notch
 Recovered Gem made for Notch in 2009
 
 **BUNNY PRESS**
