@@ -1,0 +1,83 @@
+-- day 1:
+
+06:09 am:
+Just woke up. Advancing wall of doom, eh. Right.
+First, I google image search to see if I can find any inspiration..
+
+06:49 am:
+Got the game idea. You'll play a care taker that tries to keep a bunch of bunnies alive in a room with advancing walls.
+There will be blood.
+
+08:00 am:
+Sudden doubt. This isn't going to be very fun, is it? Craaaap!
+
+09:06 am:
+Ok, I've got an animated main character now, and you can walk around.
+I should start adding some bunnies. Or levels. Or.. arrrgh!!! I should make a todo list.
+
+09:32 am:
+I think I've figured out how to do the graphics now. It's a pseudo 2.5d deal where sprites really are 16x16 pixels,
+but are rendered from 16x24 pixel blocks.
+Should look ok. =)
+
+09:57 am:
+Great, level collisions are in and seem to be working. I should add pushable blocks next.
+
+11:45 am:
+Pushable blocks are working, and so are the huge crushers.
+Well, they don't CRUSH yet, but they at least shove things around and stop when blocked.
+Time to draw some bunnies, yay!
+
+1:17 pm:
+There are jumping bunnies now.. Eight colors of them!
+I'm STILL not sure how this is going to become a game, but we'll see.
+
+2:52 pm:
+Spent some time working on a title track. It's very bad, but at least it's music.
+I made a silly title screen for the game with a scared bunny, and came up with the name "Bunny Press".
+Lovely. =D
+
+
+-- day 2:
+
+9:37 am:
+19 hours to go. I just woke up.
+I think I've decided to turn the game into a turn based puzzle game instead.
+I guess I should just be bold and do it.
+
+4:32 pm:
+12.5 hours to go. I list inspiration a lot and spent the day with my girlfriend. I ate a kebab!
+I decided to finish the game regardless of if it's fun or not. This should be interesting.
+I'm sticking to the real time plan.
+
+5:23 pm:
+I've added particle effects for various crushes, like crates and bunnies. I HAVE to add gameplay now.
+
+5:41 pm:
+The bunnies now avoid the player in a fairly interesting way. It's still not a game. ;)
+
+6:53 pm:
+Oh snap, after chatting a bit in #ludumdare, I just realized the game is about the PLAYER surviving,
+not the bunnies. The bunnies are SUPPOSED to die. :D
+
+7:44 pm:
+Time passes very very fast. There's a bunch of blood effects now, but still no gameplay at all. I need to make it
+possible to finish a level, AT ANY COST OMG! Crap.
+
+8:08 pm:
+There's ice now. It's slippery, but only for the main char.
+
+8:22 pm:
+Locks and keys! And a level exit that doesn't really work yet.
+
+9:07 pm:
+The level exit works, the intro screen is in place, and there's a small level splash screen as well. I think it's
+time to start building levels.
+
+9:44 pm:
+Things are going pretty well. I've got three fairly interesting levels done, and I think I've actually got a game
+here somewhere.
+
+12:38 am:
+11 levels done, and I added sound. I think it's time to call this a game and wrap it up.
+Phew. I can't believe I made it.
